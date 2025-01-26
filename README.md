@@ -66,6 +66,7 @@ When rendered in an EPUB reader, the Pinyin appears above each character:
  nǐ  hǎo    shì  jiè
 你好，世界！
 ```
+![alt text](image.png)
 
 ## Requirements
 
@@ -115,4 +116,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-![alt text](image.png)
